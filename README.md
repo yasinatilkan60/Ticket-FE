@@ -7,4 +7,4 @@ cd projeDizini
 npm install
 
 ```
-2. **actions** içerisindeki ** ile belirtilen kısımlara bilgisiyara özel adreslerin girilmesi gerekmektedir.
+2.**actions** içerisindeki ** ile belirtilen kısımlara bilgisayara özel adreslerin girilmesi gerekmektedir.
