@@ -18,7 +18,7 @@
     "globalize-compiler": "1.0.0",
     "globalize-webpack-plugin": "2.1.0",
     "globalizejs": "0.0.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "jwt-decode": "^2.2.0",
     "moment": "^2.24.0",
     "react": "^16.13.0",
